@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1786t",
+    "url": "https://avalon.law.yale.edu/18th_century/bar1786t.asp",
+    "accessed": "2026-10-16",
+    "raw_html_sha256": "ecba7d90272ae832943ac24f61f012b60f0cdbd2123d554eced7595af8487fd6",
+    "selected_file": "sources/bar1786t_selected.txt",
+    "selected_sha256": "3e35fe91b75beb1ef19bddaf55993e5900c60adcb050878f6fa06aa0b0cbae13",
+    "edition": "Hunter Miller, ed., Treaties and Other International Acts, vol. 2 (GPO, 1931), via Avalon Project"
+  },
+  {
+    "id": "1795t",
+    "url": "https://avalon.law.yale.edu/18th_century/bar1795t.asp",
+    "accessed": "2026-10-16",
+    "raw_html_sha256": "f6bdb48efc85101e782a7a9e6acfc98759a31d6109594bc4f0fcbd3dd2643a8d",
+    "selected_file": "sources/bar1795t_selected.txt",
+    "selected_sha256": "54ef02cd37bc1adbf475c6560221feb6cfa07a472be38d26e348d288969bb6ca",
+    "edition": "Hunter Miller, ed., Treaties and Other International Acts, vol. 2 (GPO, 1931), via Avalon Project"
+  },
+  {
+    "id": "1795e",
+    "url": "https://avalon.law.yale.edu/18th_century/bar1795e.asp",
+    "accessed": "2026-10-16",
+    "raw_html_sha256": "28964dbfbf7b234cdb1a759c7cec71fd4ef57d1f7012841d381b542ec2270706",
+    "selected_file": "sources/bar1795e_selected.txt",
+    "selected_sha256": "09b1b1e2b1c33a92d32c2bbd1a679a70d1bbcc5f000c96464b7e3f74b6796169",
+    "edition": "Hunter Miller, ed., Treaties and Other International Acts, vol. 2 (GPO, 1931), via Avalon Project"
+  },
+  {
+    "id": "1796t",
+    "url": "https://avalon.law.yale.edu/18th_century/bar1796t.asp",
+    "accessed": "2026-10-16",
+    "raw_html_sha256": "2d762821f0c99f2392a23c671e158390e63e22ad0b5742467eb548c698a6b3ee",
+    "selected_file": "sources/bar1796t_selected.txt",
+    "selected_sha256": "92d6b0d16efe7ef554e1fa1634d15170a893bb46ab4b5562886b2bbe34f6018d",
+    "edition": "Hunter Miller, ed., Treaties and Other International Acts, vol. 2 (GPO, 1931), via Avalon Project"
+  },
+  {
+    "id": "1796e",
+    "url": "https://avalon.law.yale.edu/18th_century/bar1796e.asp",
+    "accessed": "2026-10-16",
+    "raw_html_sha256": "1db87f19b72500bff9ba96ef4d52925c92f18f30d4c2d73145deaf9642605e84",
+    "selected_file": "sources/bar1796e_selected.txt",
+    "selected_sha256": "0134fb5fa5e9cbbebcefd19b678c25ae26e0aba350a620ef8806e8a97082dcdb",
+    "edition": "Hunter Miller, ed., Treaties and Other International Acts, vol. 2 (GPO, 1931), via Avalon Project"
+  },
+  {
+    "id": "1797t",
+    "url": "https://avalon.law.yale.edu/18th_century/bar1797t.asp",
+    "accessed": "2026-10-16",
+    "raw_html_sha256": "f5cc7efc0cb8fb1eb0f02e3046bde7292be9f76d9a0e305b9302bb126a6ee5a9",
+    "selected_file": "sources/bar1797t_selected.txt",
+    "selected_sha256": "906d2ac33535d9f0f0c1bed8f198fa2a8e585b77149ad916ce31f77bf1c43de9",
+    "edition": "Hunter Miller, ed., Treaties and Other International Acts, vol. 2 (GPO, 1931), via Avalon Project"
+  },
+  {
+    "id": "1805t",
+    "url": "https://avalon.law.yale.edu/19th_century/bar1805t.asp",
+    "accessed": "2026-10-16",
+    "raw_html_sha256": "b85dfc83566c69df2d6c7586da3f45e21d4fba25d09fc7c8c63ff7deb6ad0914",
+    "selected_file": "sources/bar1805t_selected.txt",
+    "selected_sha256": "2394be253e4b1b8d9b832c9d6a062ec51d9ae46c76f5253176435705be7ee61f",
+    "edition": "Hunter Miller, ed., Treaties and Other International Acts, vol. 2 (GPO, 1931), via Avalon Project"
+  },
+  {
+    "id": "1815t",
+    "url": "https://avalon.law.yale.edu/19th_century/bar1815t.asp",
+    "accessed": "2026-10-16",
+    "raw_html_sha256": "2c5431d4de6ef6ba30832d817dc1c6698c7cd5df40935d25dbe7d52759cc89fd",
+    "selected_file": "sources/bar1815t_selected.txt",
+    "selected_sha256": "eb60d6a35639877d57b1acc84f13205fa76013bf9f1019c6da1e53c8bbb9f4f7",
+    "edition": "Hunter Miller, ed., Treaties and Other International Acts, vol. 2 (GPO, 1931), via Avalon Project"
+  },
+  {
+    "id": "1816t",
+    "url": "https://avalon.law.yale.edu/19th_century/bar1816t.asp",
+    "accessed": "2026-10-16",
+    "raw_html_sha256": "d89ee42ed1b00698854ab455117d0e7dd868040c7d37186bb5bd705494e0215c",
+    "selected_file": "sources/bar1816t_selected.txt",
+    "selected_sha256": "f7037fd8ea11ab17aa5b3cf1a0fc123809b4404066beb55551483ac4334b3708",
+    "edition": "Hunter Miller, ed., Treaties and Other International Acts, vol. 2 (GPO, 1931), via Avalon Project"
+  },
+  {
+    "id": "1816e",
+    "url": "https://avalon.law.yale.edu/19th_century/bar1816e.asp",
+    "accessed": "2026-10-16",
+    "raw_html_sha256": "01f869256d9c100bd72251915c1b4696fa8b2be07c0c9cc700f8f479c45f82a7",
+    "selected_file": "sources/bar1816e_selected.txt",
+    "selected_sha256": "238e80ad616eaa8e6dfb5f61b3e6ecf9118f3418d3edaa9bd91aacbf8af95676",
+    "edition": "Hunter Miller, ed., Treaties and Other International Acts, vol. 2 (GPO, 1931), via Avalon Project"
+  }
+]

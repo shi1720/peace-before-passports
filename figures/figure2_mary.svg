@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="573.435pt" height="187.2pt" viewBox="0 0 573.435 187.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-16T12:48:41.148762</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 187.2 
+L 573.435 187.2 
+L 573.435 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 12.79035 138.1824 
+L 138.573225 138.1824 
+Q 143.045505 138.1824 143.045505 136.8 
+L 143.045505 52.128 
+Q 143.045505 50.7456 138.573225 50.7456 
+L 12.79035 50.7456 
+Q 8.31807 50.7456 8.31807 52.128 
+L 8.31807 136.8 
+Q 8.31807 138.1824 12.79035 138.1824 
+z
+" clip-path="url(#p0a802d83b5)" style="fill: #f0f3f5; stroke: #b4c2cc; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 152.5491 138.1824 
+L 278.331975 138.1824 
+Q 282.804255 138.1824 282.804255 136.8 
+L 282.804255 52.128 
+Q 282.804255 50.7456 278.331975 50.7456 
+L 152.5491 50.7456 
+Q 148.07682 50.7456 148.07682 52.128 
+L 148.07682 136.8 
+Q 148.07682 138.1824 152.5491 138.1824 
+z
+" clip-path="url(#p0a802d83b5)" style="fill: #f0f3f5; stroke: #b4c2cc; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 292.30785 138.1824 
+L 418.090725 138.1824 
+Q 422.563005 138.1824 422.563005 136.8 
+L 422.563005 52.128 
+Q 422.563005 50.7456 418.090725 50.7456 
+L 292.30785 50.7456 
+Q 287.83557 50.7456 287.83557 52.128 
+L 287.83557 136.8 
+Q 287.83557 138.1824 292.30785 138.1824 
+z
+" clip-path="url(#p0a802d83b5)" style="fill: #f0f3f5; stroke: #b4c2cc; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 432.0666 138.1824 
+L 557.849475 138.1824 
+Q 562.321755 138.1824 562.321755 136.8 
+L 562.321755 52.128 
+Q 562.321755 50.7456 557.849475 50.7456 
+L 432.0666 50.7456 
+Q 427.59432 50.7456 427.59432 52.128 
+L 427.59432 136.8 
+Q 427.59432 138.1824 432.0666 138.1824 
+z
+" clip-path="url(#p0a802d83b5)" style="fill: #f0f3f5; stroke: #b4c2cc; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="fill: #ae623b; font: 700 11px 'DejaVu Sans'; text-anchor: middle" x="75.681787" y="65.952" transform="rotate(-0 75.681787 65.952)">5 OCT</text>
+   </g>
+   <g id="text_2">
+    <text style="fill: #234c65; font: 700 9px 'DejaVu Sans'; text-anchor: middle" x="75.681787" y="84.96" transform="rotate(-0 75.681787 84.96)">Arrival in Algiers</text>
+   </g>
+   <g id="text_3">
+    <text style="font: 8px 'DejaVu Sans'" transform="translate(28.715537 105.05675)">Register and sea letter;</text>
+    <text style="font: 8px 'DejaVu Sans'" transform="translate(19.826162 117.66225)">Mediterranean pass absent.</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 142.248034 93.6 
+Q 146.117732 93.6 148.869397 93.6 
+" style="fill: none; stroke: #234c65; stroke-linecap: round"/>
+    <path d="M 144.869397 91.6 
+L 148.869397 93.6 
+L 144.869397 95.6 
+" style="fill: none; stroke: #234c65; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="fill: #ae623b; font: 700 11px 'DejaVu Sans'; text-anchor: middle" x="215.440537" y="65.952" transform="rotate(-0 215.440537 65.952)">6 OCT</text>
+   </g>
+   <g id="text_5">
+    <text style="fill: #234c65; font: 700 9px 'DejaVu Sans'; text-anchor: middle" x="215.440537" y="84.96" transform="rotate(-0 215.440537 84.96)">Contested hearing</text>
+   </g>
+   <g id="text_6">
+    <text style="font: 8px 'DejaVu Sans'" transform="translate(158.839287 105.05675)">O’Brien advances substitute</text>
+    <text style="font: 8px 'DejaVu Sans'" transform="translate(153.773662 117.66225)">papers; Dey reserves decision.</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 282.006784 93.6 
+Q 285.876482 93.6 288.628147 93.6 
+" style="fill: none; stroke: #234c65; stroke-linecap: round"/>
+    <path d="M 284.628147 91.6 
+L 288.628147 93.6 
+L 284.628147 95.6 
+" style="fill: none; stroke: #234c65; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="fill: #ae623b; font: 700 11px 'DejaVu Sans'; text-anchor: middle" x="355.199287" y="65.952" transform="rotate(-0 355.199287 65.952)">8 OCT</text>
+   </g>
+   <g id="text_8">
+    <text style="fill: #234c65; font: 700 9px 'DejaVu Sans'; text-anchor: middle" x="355.199287" y="84.96" transform="rotate(-0 355.199287 84.96)">Reported release</text>
+   </g>
+   <g id="text_9">
+    <text style="font: 8px 'DejaVu Sans'" transform="translate(302.288037 105.05675)">Dey treats vessel as prize,</text>
+    <text style="font: 8px 'DejaVu Sans'" transform="translate(306.135537 117.66225)">then releases as a favor.</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 421.765534 93.6 
+Q 425.635232 93.6 428.386897 93.6 
+" style="fill: none; stroke: #234c65; stroke-linecap: round"/>
+    <path d="M 424.386897 91.6 
+L 428.386897 93.6 
+L 424.386897 95.6 
+" style="fill: none; stroke: #234c65; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="fill: #ae623b; font: 700 11px 'DejaVu Sans'; text-anchor: middle" x="494.958037" y="65.952" transform="rotate(-0 494.958037 65.952)">12 OCT</text>
+   </g>
+   <g id="text_11">
+    <text style="fill: #234c65; font: 700 9px 'DejaVu Sans'; text-anchor: middle" x="494.958037" y="84.96" transform="rotate(-0 494.958037 84.96)">Dispatch and proposal</text>
+   </g>
+   <g id="text_12">
+    <text style="font: 8px 'DejaVu Sans'" transform="translate(439.682412 105.05675)">O’Brien reports defects and</text>
+    <text style="font: 8px 'DejaVu Sans'" transform="translate(435.536787 117.66225)">proposes overlapping passes.</text>
+   </g>
+   <g id="text_13">
+    <text style="fill: #234c65; font: 700 14px 'DejaVu Sans'; text-anchor: middle" x="286.7175" y="22.752" transform="rotate(-0 286.7175 22.752)">The Mary episode, October 1798</text>
+   </g>
+   <g id="text_14">
+    <text style="fill: #59636b; font: 9px 'DejaVu Sans'; text-anchor: middle" x="286.7175" y="166.176" transform="rotate(-0 286.7175 166.176)">Sequence reconstructed from one dispatch; boxes are equally spaced, not a time scale.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0a802d83b5">
+   <rect x="7.2" y="7.2" width="559.035" height="172.8"/>
+  </clipPath>
+ </defs>
+</svg>

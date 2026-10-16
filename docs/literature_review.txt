@@ -1,0 +1,41 @@
+LITERATURE AND CONTRIBUTION AUDIT
+16 October 2026
+
+Question: How did documentary transitions structure American maritime protection in treaties with North African states, and how did the distinction between an eligible ship and acceptable proof matter in a reported enforcement dispute?
+
+The search began with passports, American treaties, eighteen-month and six-month provisions, grace periods, consular discretion, and the material practice of Mediterranean passes. Search engines were used to locate scholarly and primary sources; claims are based on identified sources, not search-result rankings. Queries included: "Mediterranean passports" history scholarship; "Passes and Protection in the Making of a British Mediterranean"; "Barbary" "grace period"; "Barbary" "documentary grace"; "O'Brien" "Mary" "passports" 1798; "Barbary" "passports" "six months"; and searches for 2025/2026 work.
+
+Closest scholarship and reading boundary:
+
+1. Tristan Stein, "Passes and Protection in the Making of a British Mediterranean," Journal of British Studies 54(3), 2015, 602-631, doi:10.1017/jbr.2015.58.
+Publisher abstract and reference apparatus inspected; full text was access restricted. Establishes the interstate pass regime and its transformation into imperial protection. Consequently, no claim is made to have discovered passports as political instruments. The present question isolates the differentiated transitions of the American treaty sequence and the Mary episode.
+https://www.cambridge.org/core/journals/journal-of-british-studies/article/abs/passes-and-protection-in-the-making-of-a-british-mediterranean/7BFE3436F80D213CCD01AA746DBFD32E
+
+2. Brett Goodin, Opportunities of Empire: Three Barbary Captives and American Nation-Building, 1770-1840, ANU PhD dissertation, December 2015.
+Open full thesis retrieved; chapter 4, especially 104-106 and 115-117, read for consular discretion, correspondence delays, personal relations, and commerce. This establishes important antecedents; the manuscript's narrower attention is the reconstruction of documentary acceptability in the Mary dispatch, not a new claim that consuls exercised discretion.
+https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/926832bf-8856-4a3d-be7a-554fb028ed3f/content
+
+3. Frank Lambert, The Barbary Wars: American Independence in the Atlantic World, Hill and Wang, 2005.
+Publisher description/preview inspected for broad positioning of trade and independence. No detailed claim about an unread chapter is attributed to the book.
+https://us.macmillan.com/books/9780374707279/thebarbarywars/
+
+4. Lawrence A. Peskin, Captives and Countrymen: Barbary Slavery and the American Public, 1785-1816, Johns Hopkins University Press, 2009.
+Publisher description and contents inspected. Establishes captivity, public response, and national identity as existing questions. Not used as evidence that a specific documentary-transition argument is absent from the full book.
+https://www.press.jhu.edu/books/title/9789/captives-and-countrymen
+
+5. Lauren Benton and Adam Clulow, "Empires and Protection: Making Interpolity Law in the Early Modern World," Journal of Global History 12(1), 2017, 74-92.
+Publisher abstract and accessible apparatus inspected. Protection and uncertainty in inter-polity arrangements are existing approaches, not newly introduced theories.
+https://www.cambridge.org/core/journals/journal-of-global-history/article/abs/empires-and-protection-making-interpolity-law-in-the-early-modern-world/972A51110D6505F1E78B0DC9968F4AAB
+
+6. Erik de Lange, Menacing Tides: Security, Piracy and Empire in the Nineteenth-Century Mediterranean, Cambridge University Press, 2024, doi:10.1017/9781009364126.
+Publisher material and contents inspected. Recent treatment of security and empire prevents an unqualified novelty claim about moving beyond naval narratives. The book's full archive was not audited.
+https://doi.org/10.1017/9781009364126
+
+Primary investigation:
+Seven treaty instruments in the Miller edition, with three additional translated witnesses; editorial notes for original-language status and treaty alterations; O'Brien's dispatch of 12 October 1798, printed pp. 258-262; National Archives description of Commerce's 1797 passport. Corpus selection and source links are in the register. The five dispatch pages were checked as images. This is primary-source research using edited published witnesses, not a claim of new manuscript discovery.
+
+Contribution supported by the work:
+A comparative argument about distinct initial, transaction-specific, and replacement transitions; a source-critical connection to the Mary dispute; preservation of different evidentiary predicates across textual witnesses; and an openly inspectable research apparatus. The software does not demonstrate absolute novelty or turn a normative text into an outcome measure.
+
+Unresolved priority question:
+This search did not establish an exhaustive absence of related arguments in all languages, dissertations, paywalled books, or archival work. The manuscript therefore makes a bounded contribution claim. Its originality rests on the particular comparison and interpretation offered for scrutiny, not an assertion of being historically unprecedented.

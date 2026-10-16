@@ -1,0 +1,16 @@
+test_1816_witnesses_not_merged (test_evidence.EvidenceTests) ... ok
+test_durations_independently_read_from_text (test_evidence.EvidenceTests) ... ok
+test_identifiers_unique (test_evidence.EvidenceTests) ... ok
+test_pursuit_delays_not_months (test_evidence.EvidenceTests) ... ok
+test_quotes_present_in_archived_excerpts (test_evidence.EvidenceTests) ... ok
+test_scope_owned_vessels (test_evidence.EvidenceTests) ... ok
+test_source_checksums (test_evidence.EvidenceTests) ... ok
+test_table_preserves_both_transitions (test_evidence.EvidenceTests) ... ok
+test_translation_not_counted_as_new_treaty (test_evidence.EvidenceTests) ... ok
+test_tunis_not_blanket_waiver (test_evidence.EvidenceTests) ... ok
+test_unstated_not_zero (test_evidence.EvidenceTests) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.002s
+
+OK

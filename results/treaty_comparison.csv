@@ -1,0 +1,7 @@
+witness,transition_type,transition_months,purchase_months,transition_article,purchase_article
+1795t,initial_transition,18,,4,8
+1796t,initial_transition,18,12,4,5
+1797t,conge_transition,18,12,4,7
+1805t,immediate_issuance,0,24,6,7
+1815t,immediate_issuance,0,6,7,8
+1816t,immediate_issuance,0,6,7,8

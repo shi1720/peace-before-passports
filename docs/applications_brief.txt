@@ -1,0 +1,23 @@
+APPLICATIONS AND EXISTING TOOLS: DESK REVIEW
+16 October 2026
+
+The credible application is a source-linked interpretation layer for museums, teaching collections, and documentary editions. This research does not establish a patentable invention, a new credential protocol, or a commercially validated product.
+
+Existing provision:
+- Avalon already supplies treaty texts, translations, editorial notes, and article anchors. This project depends on that work and adds selected mechanism-level comparison; it does not replace an edition.
+  https://avalon.law.yale.edu/subject_menus/barmenu.asp
+- Omeka supplies open-source platforms for publishing collections and interpretive exhibits. A future institutional implementation could use its existing exhibit tools rather than build another general collection system.
+  https://omeka.org/
+  https://omeka.org/classic/plugins/ExhibitBuilder/
+- Transkribus supplies recognition and document-processing tools for historical handwriting and print, including developer interfaces. Transcription is an adjacent capability; the present register concerns the interpretation and comparison of already transcribed passages.
+  https://www.transkribus.org/
+  https://docs.transkribus.org/
+
+Possible service:
+Build and maintain clause-level interpretive datasets tied to institutional scans, scholarly editions, and exhibited artifacts. A museum could juxtapose a passport with the treaty clauses and reported disputes that made it useful or insufficient. A client deliverable would include a documented annotation schema, source audit, readable comparison, and institution-approved interpretation.
+
+Why this evidence supports that possibility:
+The paper demonstrates concrete distinctions that disappear in a flat record containing country, year, and a single grace-period number. It also supplies a small implemented register and reproducible visualizations. The study does not show willingness to pay, market size, visitor learning gains, or unmet demand in existing collection products. Those are commercial questions for subsequent institutional conversations.
+
+Practical next stage:
+An institutional pilot should assess source rights, scholarly corrections, catalog interoperability, and whether curators find the comparison useful. The inexpensive initial offering would be an evidence and interpretation service, with software treated as supporting infrastructure. No revenue or adoption forecast is justified by this desk review.

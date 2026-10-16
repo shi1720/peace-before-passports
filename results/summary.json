@@ -1,0 +1,16 @@
+{
+  "article_witness_units": 30,
+  "distinct_treaty_instruments": 7,
+  "text_witnesses": 10,
+  "main_text_units": 22,
+  "later_translation_units": 8,
+  "purchase_terms_months": [
+    null,
+    12,
+    12,
+    24,
+    6,
+    6
+  ],
+  "note": "Null means no numerical limit stated in this selected clause, not perpetual validity. Translations and treaty renewals are not independent observations."
+}

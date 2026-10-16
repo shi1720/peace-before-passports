@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the research paper and identify the version of the source register used."
+title: "Peace Before Passports: Documentary Grace and American Protection in the Maghreb, 1795-1816"
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+type: software
+version: 1.0.0
+date-released: 2026-10-16
+repository-code: "https://github.com/shi1720/peace-before-passports"
